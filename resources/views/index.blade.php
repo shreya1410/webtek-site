@@ -5,13 +5,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Bootstrap Template - Index</title>
+  <title>Webtek inc</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{('Home/assets/img/favicon.png')}}" rel="icon">
-  <link href="{{('Home/assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+  <link href="{{('Home/assets/img/logo.png')}}" rel="icon">
+  <link href="{{('Home/assets/img/logo.png')}}" rel="logo">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -57,11 +57,11 @@
     <!-- End Clients Section -->
 
     <!-- ======= Services Section ======= -->
-    @include('services')
+    <!-- @include('services') -->
     <!-- End Services Section -->
 
     <!-- ======= Portfolio Section ======= -->
-    @include('portfolio')
+    <!-- @include('portfolio') -->
     <!-- End Portfolio Section -->
 
   </main>

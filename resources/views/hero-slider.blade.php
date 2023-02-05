@@ -9,15 +9,14 @@
         <div class="carousel-item active" style="background-image: url({{('Home/assets/img/slide/slide-1.jpg')}})">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Home</span></h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Webtek</span></h2>
+              <p class="animate__animated animate__fadeInUp">Powerful ideas & sales acceleration</p>
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
 
-        <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url({{('Home/assets/img/slide/slide-2.jpg')}})">
+        <!-- <div class="carousel-item" style="background-image: url({{('Home/assets/img/slide/slide-2.jpg')}})">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -27,7 +26,6 @@
           </div>
         </div>
 
-        <!-- Slide 3 -->
         <div class="carousel-item" style="background-image: url({{('Home/assets/img/slide/slide-3.jpg')}})">
           <div class="carousel-container">
             <div class="container">
@@ -36,7 +34,7 @@
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
 
