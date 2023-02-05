@@ -49,7 +49,11 @@
   <main id="main">
 
     <!-- ======= About Section ======= -->
-    @include('about')
+
+    @include('partial-content')
+
+
+   
     <!-- End About Section -->
 
     <!-- ======= Clients Section ======= -->

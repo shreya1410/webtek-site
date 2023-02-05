@@ -9,11 +9,12 @@
         <div class="carousel-item active" style="background-image: url({{('Home/assets/img/slide/slide-1.jpg')}})">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Webtek</span></h2>
-              <p class="animate__animated animate__fadeInUp">Powerful ideas & sales acceleration</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">About Us</h2>
             </div>
           </div>
         </div>
+
+      </div>
+
     </div>
   </section>
