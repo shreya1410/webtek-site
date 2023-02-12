@@ -17,7 +17,7 @@
 
   <main id="main">
     <!-- ======= About Section ======= -->
-    @include('about')
+    @include('home_about')
     
     <!-- End About Section -->
 
