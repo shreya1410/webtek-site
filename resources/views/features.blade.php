@@ -75,4 +75,4 @@
 
 @include('counts')
 
-@include('contact')
+@include('home_contact')

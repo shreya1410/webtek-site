@@ -30,9 +30,9 @@ Route::get('/portfolio', function () {
 });
 
 Route::get('/blog', function () {
-    // return view('about');
+    return view('blogs');
 });
 
 Route::get('/contact', function () {
-    // return view('about');
+    return view('contact');
 });

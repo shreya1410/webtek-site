@@ -23,7 +23,7 @@
 
     <!-- ======= Values Section ======= -->
 
-    @include('portfolio')
+    @include('home_portfolio')
 
     <!-- End Values Section -->
 
