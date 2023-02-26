@@ -15,14 +15,7 @@
     font-weight: 700;
     color: #012970;">MED EVENT</p>
           </div>
-          <!-- <div class="col-lg-6">
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div> -->
         </div>
       </div>
     </div>
-
-
-      </footer>
+</footer>

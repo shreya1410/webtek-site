@@ -9,10 +9,12 @@
           </div>
           <div class="col-lg-6">
                
-            <form action="" method="post">
+           <form action="" method="post">
               <input type="email" name="email">
               <input type="submit" value="LET'S TALK">
             </form>
+
+           <!-- <button type="submit" class="btn btn-primary">Lets talk</button> -->
           </div>
         </div>
       </div>

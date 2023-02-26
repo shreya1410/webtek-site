@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\ContactController;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -36,3 +39,8 @@ Route::get('/blog', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+
+Route::post('/contact-us', [ContactController::class, 'save'])->name('contact.store');
+
+Route::post('/contact-form', [App\Http\Controllers\ContactController::class, 'storeContactForm'])->name('contact-form.store');

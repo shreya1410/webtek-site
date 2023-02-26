@@ -13,9 +13,7 @@
           <li><a class="nav-link scrollto" href="/services">Services</a></li>
           <li><a class="nav-link scrollto" href="/portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="/blog">Blog</a></li>
-          
           <li><a class="nav-link scrollto" href="/contact">Contact</a></li>
-          <!-- <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
